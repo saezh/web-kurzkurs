@@ -16,3 +16,10 @@
   * http://slides.com/gionkunz/html-css-ii-teil-3
   * https://slides.com/benib/html-css-level-2-position
   * https://slides.com/benib/html-css-level-2-z-index/
+ 
+
+## Editoren
+  * https://atom.io/ evtl. mit http://nuclide.io/
+  * http://www.sublimetext.com/ (70$ lifetime license, muss nicht gekauft werden)
+  * https://www.jetbrains.com/webstorm/ (SAE Schullizenz kann verwendet werden)
+  * http://brackets.io/
