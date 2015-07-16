@@ -15,8 +15,10 @@
   * https://slides.com/benib/html-css-level-2-overflow-display-visibility/
   * http://slides.com/gionkunz/html-css-ii-teil-3
   * https://slides.com/benib/html-css-level-2-position
-  * https://slides.com/benib/html-css-level-2-z-index/
- 
+  * https://slides.com/benib/html-css-level-2-z-index
+
+### HTML CSS Level 3
+  * http://slides.com/benib/html-css-level-3-border-background-etc/
 
 ## Editoren
   * https://atom.io/ evtl. mit http://nuclide.io/
