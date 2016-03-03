@@ -19,7 +19,6 @@
 
 ### HTML CSS Level 3
   * http://slides.com/benib/html-css-level-3-border-background-etc/
-  * 
   
 ### HTML CSS Level 4
   * http://slides.com/benib/html-css-level-4-transform-animation/
